@@ -781,3 +781,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Dec2024 23:19:45.235] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [25Dec2024 23:19:45.238] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [25Dec2024 23:20:24.476] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id treechop:chopped_log
+[25Dec2024 23:23:53.104] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/793a87dd-4c8d-3e03-9d0b-80a4a88bc94a.json: Don't know what treechop:chopped_log is
+[25Dec2024 23:23:53.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: st_Div[/127.168.242.198:37567] logged in with entity id 13286 at (-2094.395026844531, 89.0, 1926.663334938266)
+[25Dec2024 23:23:53.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div joined the game
+[25Dec2024 23:27:04.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Roxanne711 a server operator
+[25Dec2024 23:27:15.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Teleported Roxanne711 to st_Div]
+[25Dec2024 23:27:38.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Set own game mode to Spectator Mode]
+[25Dec2024 23:27:45.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Set own game mode to Creative Mode]
