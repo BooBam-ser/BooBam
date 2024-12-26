@@ -13,3 +13,15 @@
 [26Dec2024 00:15:30.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 left the game
 [26Dec2024 00:15:30.524] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [26Dec2024 00:22:30.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported st_Div to -2094.500000, 84.000000, 1911.500000
+[26Dec2024 00:30:47.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: st_Div lost connection: Disconnected
+[26Dec2024 00:30:47.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div left the game
+[26Dec2024 00:30:52.442] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[26Dec2024 00:30:52.445] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[26Dec2024 00:30:52.445] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: st_Div[/127.168.242.198:51837] logged in with entity id 77178 at (-2096.376765976063, 85.0, 1907.9933916528016)
+[26Dec2024 00:30:52.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div joined the game
+[26Dec2024 00:31:21.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to st_Div: pto
+[26Dec2024 00:31:29.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> olaaaaa
+[26Dec2024 00:31:34.906] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/77798, l='ServerLevel[world]', x=-2033.90, y=-256.00, z=1885.57] died, message: 'Villager was killed'
+[26Dec2024 00:31:50.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to st_Div: 3000 años
+[26Dec2024 00:33:02.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: st_Div lost connection: Disconnected
+[26Dec2024 00:33:02.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div left the game
