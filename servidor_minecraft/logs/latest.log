@@ -9,3 +9,7 @@
 [26Dec2024 00:09:33.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roxanne711 moved too quickly! -10.887505535905802,0.0,0.015502147834922653
 [26Dec2024 00:09:34.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roxanne711 moved too quickly! -10.319825472528919,0.0,0.024803436535876244
 [26Dec2024 00:13:58.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
+[26Dec2024 00:15:30.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roxanne711 lost connection: Disconnected
+[26Dec2024 00:15:30.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 left the game
+[26Dec2024 00:15:30.524] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Dec2024 00:22:30.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported st_Div to -2094.500000, 84.000000, 1911.500000
